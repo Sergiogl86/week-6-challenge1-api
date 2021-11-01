@@ -1,3 +1,7 @@
 {
-  "week6": []
+  "week6": [
+    { "id": 1, "tarea": "coser", "done": false },
+    { "id": 2, "tarea": "leer", "done": false },
+    { "id": 3, "tarea": "barrer", "done": false }
+  ]
 }
